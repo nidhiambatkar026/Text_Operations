@@ -23,11 +23,13 @@ body{
 }
 #input{
     height: 50px;
-    width: auto;
+    width: 90%;
     padding: 10px;
+    margin: 10px
 }
 #output{
     height: 50px;
-    width: auto; 
+    width: 90%; 
     padding: 10px;
+    margin: 10px;
 }
